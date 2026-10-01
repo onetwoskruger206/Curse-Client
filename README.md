@@ -215,4 +215,4 @@ Curse Client is the **official full version** of the software, offering all feat
 Don't miss out on the ultimate tool to enhance your gaming experience! **Download Curse Client for free today!**
 
 ---
-**Last updated:** 2026-10-01 08:34:37 UTC
+**Last updated:** 2026-10-01 16:09:49 UTC
